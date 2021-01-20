@@ -1,10 +1,12 @@
-The secret of the "tricky" 17th-century frescoes in Rome's Chiesa di Sant'Ignazio di Loyola: 3D technology of the past
+# The secret of the "tricky" 17th-century frescoes in Rome's Chiesa di Sant'Ignazio di Loyola: 3D technology of the past
 
 One of Rome's most little-known landmarks, the Chiesa di Sant'Ignazio di Loyola, is just a block from the Pantheon. This incredible 17th-century Baroque church has a tall façade overlooking the square and a richly decorated interior that is considered one of the best in all of Rome. But the most important thing lies beneath the dome of this unique medieval structure.
 
 The church was built in honor of the founder of the Jesuit order. The first thing most visitors do as they enter the building is to look up. One can see the magnificent frescoes that adorn the huge domed ceiling.
 
-The Church of St. Ignatius
+## The Church of St. Ignatius
+
+![Branching](ndoma.jpg)
 
 The grandiose frescoes, belonging to the brush of Andrea Pozzo, depict the triumph of St. Ignatius. The artist also depicted all the apostolic goals of the Jesuit missionaries, seeking to expand the influence of Roman Catholicism throughout the world. The ceiling appears high and vaulted. It is decorated with statues and images of cherubs.
 
@@ -12,11 +14,15 @@ The fake dome and vaulted ceiling of St. Ignatius Church in Rome.
 
 The most interesting thing is that this volumetric roof is actually a flat roof! The ingenious painter Pozzo used anamorphic techniques to give the ceiling the illusion of height. A marble disc set in the middle of the nave floor marks the perfect spot from which observers can enjoy this stunning optical illusion in its entirety.
 
-"The Dome," if viewed directly from below.
+## "The Dome," if viewed directly from below
+
+![Branching](ndoma1.jpg)
 
 A little further away on the floor of the nave is another marker. Standing on it, the observer sees an incomparably beautiful ribbed vault that does not exist in reality. Like the rest of the ceiling, this ornate dome is also an illusion painted by Andrea Pozzo. This was done to conceal the fact that the Jesuits simply could not afford to build all this luxury.
 
-The interiors and architectural details of St. Ignatius Church.
+## The interiors and architectural details of St. Ignatius Church
+
+![Branching](ndoma3.jpg)
 
 The church was originally a simple chapel of the Roman College. The institution was founded by St. Ignatius in 1551. A wealthy noble Italian lady, Vittoria della Tolfa, had given the Society of Jesus, in memory of her late husband, a plot of land. It was there that the monks decided to build the chapel. Although the Jesuits received the Marquises' land for free, they had no money to build the church. Budgetary constraints forced them to find an architect within their ranks, and the other Jesuit brothers labored to build the church themselves. The original church building was completed in 1567. In 1580 the complex was enlarged thanks to the generous contribution of Pope Gregory XIII.
 
